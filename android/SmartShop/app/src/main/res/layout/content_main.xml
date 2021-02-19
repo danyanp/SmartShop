@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--首页，主页-->
+<!--缺货填报，缺货提醒，进货填报-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.smartshop.danyanpi.smartshop.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <com.tencent.smtt.sdk.WebView
+        android:id="@+id/forum_context"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

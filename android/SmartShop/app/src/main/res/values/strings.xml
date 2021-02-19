@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">灵动小店</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--add_goods-->
+    <string name="addgoods">新增商品</string>
+    <string name="goodsname">商品名</string>
+    <string name="categoryid">分类</string>
+    <string name="bar">条形码</string>
+    <string name="stock">库存</string>
+    <string name="purprice">进价</string>
+    <string name="delprice">卖价</string>
+    <string name="remarks">备注</string>
+    <string name="addbutton">新增</string>
+    <!--add_category-->
+    <string name="add_category">新增分类</string>
+    <string name="categoryname">分类名</string>
+
+    <!--nav-->
+    <string name="nav_stock">库存管理</string>
+    <string name="nav_data">数据系统</string>
+    <string name="nav_tool">账号</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_send">发送</string>
+</resources>
